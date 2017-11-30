@@ -116,7 +116,7 @@ ul.skills {
   margin: 2px;
 }
 
-.skills li:nth-child {
+.skills li:nth-child(0) {
   background: #0399ff;
 }
 
